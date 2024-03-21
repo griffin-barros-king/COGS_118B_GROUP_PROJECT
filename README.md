@@ -1,6 +1,5 @@
-# COGS118B Project template
-This is your group repo for your final project for COGS118B
+# COGS118B Project
+This is our COGS118 Project!
 
-This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the three files above on due dates with the required information, the rest is up to you all.
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+Here we look at some stocks and find ways to measure and organize stocks into different risk levels. to then predict the sharp ratio of the given stocks.
+We use some unsupervised and some supervised machine learning to achieve these goals.
